@@ -1,10 +1,9 @@
 * posix-shm
 
+Common Lisp bindings and wrapper for the POSIX shared memory API.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://git.sr.ht/~shunter/posix-shm   |
-| commit  |   |
-| systems | posix-shm |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------|
+| source  | git:https://git.sr.ht/~shunter/posix-shm |
+| commit  | 9443da2                                  |
+| systems | posix-shm                                |
+|---------+------------------------------------------|
