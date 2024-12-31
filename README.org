@@ -4,6 +4,6 @@ Common Lisp bindings and wrapper for the POSIX shared memory API.
 
 |---------+------------------------------------------|
 | source  | git:https://git.sr.ht/~shunter/posix-shm |
-| commit  | 9443da2                                  |
+| commit  | cdbde21                                  |
 | systems | posix-shm                                |
 |---------+------------------------------------------|
